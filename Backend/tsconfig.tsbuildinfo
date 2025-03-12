@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/doctorcontroller.ts","./src/controllers/patientcontroller.ts","./src/middlewares/authmiddleware.ts","./src/models/usermodel.ts","./src/routes/doctorroutes.ts","./src/routes/patientroutes.ts"],"version":"5.6.2"}
